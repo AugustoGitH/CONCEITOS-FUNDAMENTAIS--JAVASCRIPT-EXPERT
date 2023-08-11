@@ -71,21 +71,21 @@ A coerção de objetos para tipos primitivos ocorre por meio do método interno 
 // Exemplo hipotético de implementação do [[ToPrimitive]]
 [[ToPrimitive]](valor, tipoPreferencial) {
 if (tipoPreferencial === 'number') {
-if (valor.valueOf é primitivo) {
-return valor.valueOf();
-}
-if (valor.toString é primitivo) {
-return valor.toString();
-}
-} else if (tipoPreferencial === 'string') {
-if (valor.toString é primitivo) {
-return valor.toString();
-}
-if (valor.valueOf é primitivo) {
-return valor.valueOf();
-}
-}
-throw TypeError("Não foi possível converter para primitivo");
+  if (valor.valueOf é primitivo) {
+    return valor.valueOf();
+  }
+  if (valor.toString é primitivo) {
+    return valor.toString();
+  }
+  } else if (tipoPreferencial === 'string') {
+  if (valor.toString é primitivo) {
+    return valor.toString();
+  }
+  if (valor.valueOf é primitivo) {
+    return valor.valueOf();
+  }
+  }
+  throw TypeError("Não foi possível converter para primitivo");
 }
 ```
 
