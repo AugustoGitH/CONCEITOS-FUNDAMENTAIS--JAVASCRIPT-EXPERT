@@ -41,7 +41,8 @@ Conclusão
 O entendimento da Call Stack e da Memory Heap é crucial para escrever código JavaScript eficiente e compreender como o gerenciamento de memória ocorre. Esses conceitos nos ajudam a evitar problemas de desempenho e vazamentos de memória.
 
 Referências:
-[levelup](https://levelup.gitconnected.com/understanding-call-stack-and-heap-memory-in-js-e34bf8d3c3a4)
-[medium](https://medium.com/@allansendagi/javascript-fundamentals-call-stack-and-memory-heap-401eb8713204)
-[mattzeunert](https://www.mattzeunert.com/2017/03/29/v8-object-size.html)
+
+[levelup](https://levelup.gitconnected.com/understanding-call-stack-and-heap-memory-in-js-e34bf8d3c3a4)<br>
+[medium](https://medium.com/@allansendagi/javascript-fundamentals-call-stack-and-memory-heap-401eb8713204)<br>
+[mattzeunert](https://www.mattzeunert.com/2017/03/29/v8-object-size.html)<br>
 [mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)

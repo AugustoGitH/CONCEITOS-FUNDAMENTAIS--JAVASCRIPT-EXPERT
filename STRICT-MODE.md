@@ -73,5 +73,6 @@ A maioria dos navegadores modernos suporta o "Strict Mode", exceto o Internet Ex
 O "Strict Mode" é um aliado para escrever código JavaScript mais seguro e confiável. Ele não apenas evita erros, mas também te ajuda a criar software de melhor qualidade. Use o "Strict Mode" sempre que possível para melhorar suas habilidades de programação!
 
 Referências:
-[w3shools](https://www.w3schools.com/js/js_strict.asp)
-[geeksforgeeks](https://www.geeksforgeeks.org/strict-mode-javascript/)
+
+[w3shools](https://www.w3schools.com/js/js_strict.asp)<br>
+[geeksforgeeks](https://www.geeksforgeeks.org/strict-mode-javascript/)<br>
