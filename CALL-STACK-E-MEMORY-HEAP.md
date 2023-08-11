@@ -39,7 +39,3 @@ A Call Stack lida com a sequência de execução de funções, enquanto a Memory
 Conclusão
 
 O entendimento da Call Stack e da Memory Heap é crucial para escrever código JavaScript eficiente e compreender como o gerenciamento de memória ocorre. Esses conceitos nos ajudam a evitar problemas de desempenho e vazamentos de memória.
-
-css
-
-Espero que esta seção explique mais detalhadamente o conceito de Memory Heap em JavaScript. Novamente, copie e cole o conteúdo acima em um arquivo `.md` para visualizar a formatação correta.
